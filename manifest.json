@@ -1,0 +1,25 @@
+
+{
+  "short_name": "المؤمن نت",
+  "name": "المؤمن نت - إدارة المشتركين",
+  "description": "نظام إدارة مشتركين الإنترنت - يعمل بدون إنترنت",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534033.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534033.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#10b981",
+  "background_color": "#f8fafc"
+}
